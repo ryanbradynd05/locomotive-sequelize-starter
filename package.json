@@ -5,6 +5,14 @@
   "author": "Ryan Brady",
   "license": "MIT",
   "repository": "ryanbradynd05/locomotive-sequelize-starter",
+  "keywords": [
+    "express",
+    "locomotive",
+    "node",
+    "sequelize",
+    "mocha",
+    "istanbul"
+  ],
   "dependencies": {
     "async": "^0.9.0",
     "bootable": "0.2.x",
