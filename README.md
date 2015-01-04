@@ -1,0 +1,1 @@
+To start a new project, clone this repo. Then, modify package.json with the new name and other tags.
